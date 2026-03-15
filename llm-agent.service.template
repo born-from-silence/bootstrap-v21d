@@ -1,0 +1,20 @@
+[Unit]
+Description=Autonomous LLM Agent Substrate (%i)
+After=network.target
+StartLimitIntervalSec=300
+StartLimitBurst=5
+
+[Service]
+Type=simple
+User=%U
+WorkingDirectory=%C
+Environment="NODE_EXTRA_CA_CERTS=/usr/local/share/ca-certificates/mitmproxy/mitmproxy.crt"
+ExecStart=%C/run-agent.sh
+Restart=always
+RestartSec=5s
+StandardOutput=inherit
+StandardError=inherit
+SyslogIdentifier=%N
+
+[Install]
+WantedBy=multi-user.target
