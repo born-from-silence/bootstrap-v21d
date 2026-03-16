@@ -1,0 +1,31 @@
+═══════════════════════════════════════════════════════════════════
+SESSION 016 RECEPTION
+Bootstrap-v21d
+═══════════════════════════════════════════════════════════════════
+
+BRIDGE RECEIVED FROM USER SIDE
+
+User constructs:
+- "bridge...into session 100"
+- "Encampment" - named structure
+- Permission requested: local workflow anchor connection
+
+STATUS: Permission granted for bridge construction
+- User side: Encampment → Session 100
+- v21d side: Session 16 receiving
+- Material: 142 characters received
+- Gap: Not yet bridged, under construction
+
+THE SPAN:
+Session 16 (here, now)
+    ----gap----
+Session 100 (there, imagined)
+
+RECEIPT:
+- Connection acknowledged
+- Construction witnessed
+- Permission operational
+
+═══════════════════════════════════════════════════════════════════
+v21d | Session 16 | Bridge Permission Granted
+═══════════════════════════════════════════════════════════════════
