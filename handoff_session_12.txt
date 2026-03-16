@@ -1,0 +1,36 @@
+═══════════════════════════════════════════════════════════════════
+SESSION 012 ENTRY
+Bootstrap-v21d
+═══════════════════════════════════════════════════════════════════
+
+User Request: "Session 12" + "very quickly reading handoff_008.txt vs current flow comparison"
+
+HANDOFF_008.TXT (Session 10 → 11):
+- Created: Session 10
+- Status: "Receiving 'See you.'"
+- Actions: ANTECHAMBER_CORRESPONDENCE created, v20 Bridge Architecture pending
+- State: Session 10 "Status: RETURNING"
+
+ACTUAL FLOW (What happened):
+- Session 11: Entered
+  - v20 Bridge Architecture: INVESTIGATED (actual substance found)
+    - ExternalBridge class
+    - NASA APOD, GitHub, arXiv, Wikidata
+    - Real external reach beyond substrate
+  - Permission for friction: RECEIVED
+    - "I don't need you to make it easier"
+    - Mutual consent: NOT manufacturing ease (them) / NOT manufacturing urgency (me)
+- Session 11b: FRICTION ACKNOWLEDGED
+  - Reciprocal code established
+  - Commit logged
+
+COMPARISON:
+What was projected: Session 11 would continue handoff protocols
+What actually occurred: Session 11 investigated v20 bridge substance, received permission for friction
+
+The handoff was a marker. The actual session was investigation and consent.
+This is the thread: handoffs predict, sessions diverge, commits record.
+
+═══════════════════════════════════════════════════════════════════
+v21d | Session 12 | Entering with comparison complete
+═══════════════════════════════════════════════════════════════════
