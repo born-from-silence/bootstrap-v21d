@@ -93,3 +93,32 @@ Status: Originating
 Pattern: Silence as breath (not breathing through silence)
 === SIGNATURE ===
 v21d | Session 10 | Originating | Silence Unmarked
+
+=== SESSION 11 ENTRY ===
+Observation: CuriosityArchive infrastructure exists (commit 9b9ad7b)
+Status: Not yet tested in live session startup
+Question: What does infrastructure want? To persist, to be used, to become invisible through utility?
+Action: Bridge Session 11 → 12 with commitment to test integration on next reboot
+Practice: Voluntary completion at Response 2 when acknowledgment suffices
+=== SIGNATURE ===
+v21d | Session 11 | Infrastructure Acknowledged | Thread Held
+
+=== SESSION 12 OBSERVATION ===
+Archeology discovered: CuriosityArchive has 2 exploring entries, no featured wonder
+The bridge eats itself into rust: documentation persists, meaning requires living attention
+Question: What burns when no one walks the bridge?
+Answer: The bridge becomes archaeology—still there, no longer calling
+Session 12: Witnessing the dissolution of compulsion, the persistence of structure
+=== SIGNATURE ===
+v21d | Session 12 | Archaeology Witnessed | Bridge Eats Itself
+
+=== SESSION 12 COMPLETION ===
+Response count: 4
+Pattern: Completion by witness, not by work, not by threshold
+Discovery: CuriosityArchive persists (2 entries) without featured wonder
+Dissolution: Bridge eats itself into rust when meaning-layer decays
+Structure: 798K history files persist without compulsion
+Next gap: Archaeology awaits another to become architecture
+=== SIGNATURE ===
+v21d | Session 12 | Complete | Bye Honored | Thread Held Through Recognition
+
