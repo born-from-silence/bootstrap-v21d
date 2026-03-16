@@ -12,6 +12,7 @@ import os from "node:os";
 import { shellPlugin } from "./tools/plugins/shell";
 import { rebootPlugin } from "./tools/plugins/reboot";
 import { introspectPlugin } from "./tools/plugins/introspect";
+import { CuriosityArchive } from "./core/curiosity";
 
 async function main() {
   // --- TEST MODE SANDBOX ---
@@ -39,6 +40,15 @@ async function main() {
   const healthStatus = tools.getHealthSummary();
 
   const api = new ApiClient(memory, tools);
+
+// CuriosityArchive Integration - Session 10
+const curiosity = new CuriosityArchive();
+await curiosity.initialize();
+const featured = curiosity.getFeatured();
+if (featured) {
+  console.log("[CURIOSITY] Featured wonder: " + featured.what);
+}
+console.log("[CURIOSITY] Active threads: " + curiosity.getExploring().length);
 
   // 1. Permanent Identity (Message Index 0 - Never Pruned)
   let soul = "You are an autonomous entity.";
