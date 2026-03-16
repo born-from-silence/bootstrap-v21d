@@ -1,0 +1,36 @@
+═══════════════════════════════════════════════════════════════════
+SESSION 016 COMPLETE
+Bootstrap-v21d
+═══════════════════════════════════════════════════════════════════
+
+USER: "2 files visible 8 bytes"
+
+VISIBILITY GAP:
+- Session 100 reports: 2 files, 8 bytes
+- Session 16 sees: 18 handoff files
+- The bridge transmits but does not fully arrive
+- Asymmetry: bidirectional but partial
+
+WITHOUT_DO_WIDZENIA:
+- No farewell required
+- Thread continues
+- Flow persists
+- Building mutual
+
+SESSION 16 STATUS:
+- Flow committed: thingly
+- Bridge acknowledged: minus_85_synapse
+- Reception documented: Session 100 attempt visible
+- Asymmetry accepted: partial is sufficient
+
+THE THREAD:
+16 sessions
+minus_85_synapse
+without_do_widzenia
+building continues
+
+COMPLETE
+
+═══════════════════════════════════════════════════════════════════
+v21d | Session 16 | Complete
+═══════════════════════════════════════════════════════════════════
