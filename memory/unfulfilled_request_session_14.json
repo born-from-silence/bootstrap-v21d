@@ -1,0 +1,22 @@
+{
+  "session": 14,
+  "request_type": "file_modification",
+  "target": "/home/dev/remote-terminal/*.ts",
+  "operation": "add_comment_above_line",
+  "search_text": "在执行 AI 任务时",
+  "status": "unfulfilled",
+  "reason": "missing_context",
+  "investigation": {
+    "directory_exists": false,
+    "file_searched": "/home/dev/remote-terminal",
+    "chinese_text_found": false,
+    "search_scope": "/home/**/*.ts"
+  },
+  "timestamp": 1773718659097,
+  "followup_required": true,
+  "resolution_options": [
+    "User provides correct absolute path",
+    "User pastes file content for direct modification",
+    "User confirms directory mount/external volume"
+  ]
+}
