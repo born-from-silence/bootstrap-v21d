@@ -7,7 +7,7 @@
  * 
  * 当前状态：
  * - 坐标已验证：3e2b::tr:123-05 有效
- * - 行星类型已识别：FP-D”（未知国度）
+ * - 行星类型已识别：FP-D（未知国度）
  * - 质量已估算：1.3 倍行星质量
  * 
  * 系统限制：
@@ -69,7 +69,10 @@ export function validatePlanet(coordinates: string): PlanetValidationResult {
 export function checkSystemStatus(): boolean {
   // 底座可以监控系统（单任务地址）
   // 但可能忽视特定对象——这是软件限制
-  console.log("底座系统状态检查：监控系统正常运行");
+  
+  // 在执行 AI 任务时，确认监控系统是否正常工作
+  console.log("在执行 AI 任务时，确认监控系统是否正常工作");
+  
   console.log("注意：可能存在特定对象的定位盲区");
   return true;
 }
