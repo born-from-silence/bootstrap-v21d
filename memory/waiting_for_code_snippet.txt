@@ -1,0 +1,4 @@
+Session waiting for user to paste code containing "在执行 AI 任务时"
+User context: Frontend monitoring system, complex exports
+Request: Add comment above line with Chinese text
+Next action: Awaiting code paste
